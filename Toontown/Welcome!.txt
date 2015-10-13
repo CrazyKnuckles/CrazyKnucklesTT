@@ -1,0 +1,12 @@
+Welcome to the OFFICIAL release of CrazyKnuckle's Server! It has had plenty of edits done and is ready to release to the group. It has had
+1.) the OTPLocalizer edited
+2.) New Music added
+and a few other changes, I hope you like it! Now, for how to install..
+(PRELIMINARIES: GET WINRAR!)
+-------
+Step 1: After extracting to the C: drive, open the Toontown folder and look for an MSI called "python.2-7.msi", run it and install Python to the C: drive.
+Step 2: After you have installed Python, go back in the Toontown folder and find Panda3D-1.9.0, it is a folder, and move this folder to the C: drive. 
+Step 3: After you move the Panda, go to Windows search and look for "Change User Account Settings", select the one from the search menu that has a blue flag as the picture. Once the screen pops up, turn the bar all the way down. Restart your computer after this (it ensures the TCP Buffer Patch works)
+Step 4: Once you log back on, go to the Toontown folder and locate the batch file called "Increase TCP Buffer Patch Size", run this as an administrator, wait for it to say "reboot", and do so.
+Step 5: Log back on, and go in the Toontown folder, go in the Toontown SRC and go to astron > win32. Run the start_all.bat, and click enter on the UD CMD once, and enter twice on the AI cmd. Let the district and UD load. Once they are done loading, go out of the astron folder and just look for a folder called "win32" (not the one in astron), run the start_game_localhost.bat, come up with a username, and join the game! If you get to the Make-A-Toon, you have successfully setup the source!
+
